@@ -47,3 +47,6 @@ The Numerai competition involves a structured approach to data handling, feature
     - **Target-Specific Models**: Building different models for different targets can enhance prediction accuracy.
 
     - **Era Statistics**: There are 574 eras, with each era representing 5 days. Each target has 20 values, equivalent to 4 weeks. Thus, picking every 4th era is beneficial for a representative sampling.
+
+### Resource:
+For further information and example scripts, visit the [Numerai Example Scripts](https://github.com/numerai/example-scripts?tab=readme-ov-file) repository.
